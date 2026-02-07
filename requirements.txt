@@ -1,0 +1,7 @@
+groq
+python-dotenv
+python-docx
+requests
+beautifulsoup4
+gradio
+
